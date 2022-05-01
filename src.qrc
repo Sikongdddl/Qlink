@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picturesrc/pic1.jpg</file>
+        <file>picturesrc/pic2.png</file>
+        <file>picturesrc/pic3.png</file>
+        <file>picturesrc/pic+1s.png</file>
+        <file>picturesrc/hint.png</file>
+        <file>picturesrc/shuffle.png</file>
+        <file>picturesrc/lanran.jfif</file>
+        <file>picturesrc/wuyue.jpg</file>
+    </qresource>
+</RCC>
